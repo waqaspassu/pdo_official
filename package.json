@@ -1,0 +1,19 @@
+{
+  "name": "pdo_official",
+  "version": "1.0.0",
+  "description": "## Passu Development Orginization",
+  "main": "index.js",
+  "scripts": {
+    "client":"cd client && yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waqaspassu/pdo_official.git"
+  },
+  "author": "Waqas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waqaspassu/pdo_official/issues"
+  },
+  "homepage": "https://github.com/waqaspassu/pdo_official#readme"
+}
